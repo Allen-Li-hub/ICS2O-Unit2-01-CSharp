@@ -10,6 +10,6 @@ class Program
   public static void Main (string[] args) 
   {
     Console.WriteLine ("Hello World");
-    Console.WriteLine ("\n done.");
+    Console.WriteLine ("\nDone.");
   }
 }
